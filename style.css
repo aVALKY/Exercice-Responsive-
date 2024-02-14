@@ -156,3 +156,19 @@ img{
 .boite_verte p {
     width: 50%;
 }
+@media screen and (min-width:400px) and (max-width : 980px){
+    .boite_verte p {
+        font-size: 10px;
+    }
+    .boite_jaune {
+        font-size: 10px;
+    }
+    .img_content {
+        width: 30%;
+        height: 30%;
+    }
+    /* .boite_verte {
+        
+    } */
+
+}
