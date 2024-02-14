@@ -4,7 +4,7 @@ Excercice compliqué pour moi sur le responsive, je suis un peu perdu avec cette
 
 je suis encore également perdu avec le flex et les "Height/width" qui me prennent beaucoup de temps. 
 
-Les divs n'ont pas de nom d'id/class correct(explicite), j'en suis contient, je les ai nommés "verte, rouge, jaune, bleu" pour me reperer avec les dimensions et mon flex-box (temporairement)
+Les divs n'ont pas de nom d'id/class correct(explicite), j'en suis conscient, je les ai nommés "verte, rouge, jaune, bleu" pour me reperer avec les dimensions et mon flex-box (temporairement)
 je leurs donnerai un nom correct une fois le body finalisé avec le responsive si cela te convient. 
 
 je n'ai pas eu le temps pour finir le footer, le responsive m'a pris beaucoup de temps sans grand resultat. 
